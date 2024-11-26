@@ -1,0 +1,1 @@
+This is the default debuging txt included with the Vaje CDN Project
